@@ -1,5 +1,11 @@
-## Hi there 👋
-
+## Welcome to my GitHub profile!
+## 🤗 About Me
+- I'm a second year Data Science Major at Northeastern University
+- HUGE foodie 🥭🍣🥑🍳🥩
+- I love soccer!! My teams are Real Madrid, Liverpool, and la Selección de Colombia 🇨🇴
+## 📫 How to reach me
+Email: charry.vi@northeastern.edu or vcharry21@gmail.com
+LinkedIn: www.linkedin.com/in/victoria-charry-71713035a 
 <!--
 **vcharry/vcharry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
