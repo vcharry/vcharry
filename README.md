@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!
 ## 🤗 About Me
-- I'm a second year Data Science Major at Northeastern University
+- I'm a second year Data Science student at Northeastern University
 - HUGE foodie 🥭🍣🥑🍳🥩
 - I love soccer!! My teams are Real Madrid, Liverpool, and la Selección de Colombia 🇨🇴
 ## 📫 How to reach me
